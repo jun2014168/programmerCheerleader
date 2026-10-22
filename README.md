@@ -21,7 +21,7 @@
 
 ### 方式三：让 Trae 帮你装
 
-对你的 AI 助手说：「从 https://github.com/<你的用户名>/programmer-cheerleader 安装这个技能」。
+对你的 AI 助手说：「从 https://gitcode.com/u013257731/ProgrammerCheerleader 安装这个技能」。
 
 ## 使用指令
 
