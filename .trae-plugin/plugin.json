@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "程序员鼓励师——报错时有人安慰，过关时有人庆祝；温暖/幽默/毒舌三风格可切换，内置防打扰与情绪安全边界",
   "author": {
-    "name": "xujiabin"
+    "name": "niqingjun"
   },
   "license": "UNLICENSED",
   "keywords": [
@@ -17,7 +17,7 @@
     "displayName": "程序员鼓励师",
     "shortDescription": "陪伴编程情绪的鼓励师：报错时安慰，过关时庆祝",
     "longDescription": "把 AI 助手变成陪伴程序员情绪的鼓励师。三种风格（温暖治愈/幽默段子手/毒舌反差萌）随时切换；感知构建失败、测试通过、代码提交等编程事件并主动鼓励；内置防打扰频率控制、勿扰模式、误判纠偏与情绪安全边界。",
-    "developerName": "xujiabin",
+    "developerName": "niqingjun",
     "category": "Developer Tools",
     "capabilities": [
       "Interactive",
